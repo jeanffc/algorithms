@@ -1,0 +1,8 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "repository": "https://github.com/jeanffc/algorithms.git",
+  "license": "MIT"
+}
